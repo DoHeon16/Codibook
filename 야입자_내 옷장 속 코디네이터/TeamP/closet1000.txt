@@ -1,0 +1,4 @@
+가디건/shirt/청바지
+가디건/shirt/스키니진
+가디건/shirt/슬랙스
+가디건/shirt/pants
